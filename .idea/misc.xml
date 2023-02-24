@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/xjz99/AndroidStudioProjects/AndroidProyectoUF2/app/src/main/res/drawable/retweet_off.xml" value="0.1085" />
+        <entry key="..\:/Users/xjz99/AndroidStudioProjects/AndroidProyectoUF2/app/src/main/res/drawable/retweet_on.xml" value="0.1085" />
+        <entry key="..\:/Users/xjz99/AndroidStudioProjects/AndroidProyectoUF2/app/src/main/res/layout/fragment_new_comment.xml" value="0.1" />
+        <entry key="..\:/Users/xjz99/AndroidStudioProjects/AndroidProyectoUF2/app/src/main/res/layout/fragment_new_post.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/xjz99/AndroidStudioProjects/AndroidProyectoUF2/app/src/main/res/layout/viewholder_post.xml" value="0.23639774859287055" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/audio.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/camera.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.114" />
+        <entry key="app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/image.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/like_off.xml" value="0.3565" />
+        <entry key="app/src/main/res/drawable/mic.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/movie.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/pen.xml" value="0.1805" />
+        <entry key="app/src/main/res/drawable/retweet_off.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/user.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/video.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19519927536231885" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_media.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/fragment_new_post.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.35507246376811596" />
+        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.35507246376811596" />
+        <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.35507246376811596" />
+        <entry key="app/src/main/res/layout/fragment_sign_out.xml" value="0.35507246376811596" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.19519927536231885" />
+        <entry key="app/src/main/res/layout/viewholder_post.xml" value="0.3807829181494662" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.35625" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/xml/paths.xml" value="0.35625" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
